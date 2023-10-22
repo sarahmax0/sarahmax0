@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning JavaScrip
 - 📫 How to reach me: sara2006costa@gmail.com
 - 😄 Pronouns: ela/dela
 
