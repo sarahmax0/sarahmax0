@@ -29,9 +29,9 @@ Depois de quase dois anos afastada, voltei a programar agora em **junho de 2025*
 
 ## 📊 GitHub Stats
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=saracsg&layout=compact&theme=dark)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=sarahmax0&layout=compact&theme=dark)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=saracsg&show_icons=true&theme=dark)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=sarahmax0&show_icons=true&theme=dark)
 
 ---
 
