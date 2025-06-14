@@ -1,10 +1,11 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Oi, eu sou a Sara!
 
 Sou uma desenvolvedora de 18 anos, apaixonada pelo mundo da programação e baseada no Brasil.  
-Atualmente, participo do desafio da **BeroLab** como **Indie Hacker** — fazendo o código voltar a fluir, um commit de cada vez 🧠💻
+Atualmente participo do desafio da **BeroLab** como **Indie Hacker** — fazendo o código voltar a fluir, um commit de cada vez 🧠💻
 
-- 🌐 Em breve: meu site pessoal!
-- 📱 Acompanha minha jornada no [Instagram](https://www.instagram.com/_.saracsg._/) e no [LinkedIn](https://www.linkedin.com/in/sara-costa-013854282/)
+[![Rocketseat](https://img.shields.io/badge/Rocketseat-Discover-6633cc?style=for-the-badge&logo=rocket)](https://www.rocketseat.com.br/discover)
+[![BeroLab](https://img.shields.io/badge/BeroLab-Indie_Hacker-blueviolet?style=for-the-badge)](https://www.berolab.dev/)
+![Feito com amor](https://img.shields.io/badge/feito%20com-%E2%9D%A4-red?style=for-the-badge)
 
 ---
 
@@ -13,9 +14,9 @@ Atualmente, participo do desafio da **BeroLab** como **Indie Hacker** — fazend
 Depois de quase dois anos afastada, voltei a programar agora em **junho de 2025** — e estou super animada para retomar meus estudos e projetos! 💪
 
 ### No que estou focada agora:
-- 💻 Reaprendendo o básico e me atualizando
-- 🌱 Explorando novas ferramentas e linguagens
-- 🔧 Me preparando para novos projetos pessoais
+- 📚 Reaprendendo o básico e me atualizando  
+- 🧪 Explorando novas ferramentas e linguagens  
+- ✨ Me preparando para novos projetos pessoais  
 
 ---
 
@@ -45,11 +46,9 @@ Depois de quase dois anos afastada, voltei a programar agora em **junho de 2025*
 
 ## 📫 Contato
 
-Para uma resposta rápida, me chama no:  
-📸 [Instagram](https://www.instagram.com/_.saracsg._/)  
-💼 [LinkedIn](https://www.linkedin.com/in/sara-costa-013854282/)
-
-📧 Para assuntos profissionais: sara2006costa2@gmail.com  
+📸 [Instagram](https://www.instagram.com/.saracsg./)
+💼 [LinkedIn](https://www.linkedin.com/in/sara-costa-013854282/)  
+📧 sara2006costa2@gmail.com  
 
 ---
 
