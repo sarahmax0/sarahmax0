@@ -1,30 +1,57 @@
-### Hey, I'm Sara 👋 
+### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Oi, eu sou a Sara!
 
-I'm a 17-year-old developer based in Brazil, and I'm passionate about world of programming. 
+Sou uma desenvolvedora de 18 anos, apaixonada pelo mundo da programação e baseada no Brasil.  
+Atualmente, participo do desafio da **BeroLab** como **Indie Hacker** — fazendo o código voltar a fluir, um commit de cada vez 🧠💻
 
-- Check out my future website
-- Explore my future blog, where I share insights and learnings.
-- Stay updated with my journey on [Instagram]([https://www.instagram.com/mirayatech](https://www.instagram.com/_.saracsg._/)) and [LinkedIn]([https://www.linkedin.com/in/mirayaabrodi](https://www.linkedin.com/feed/)) .
+- 🌐 Em breve: meu site pessoal!
+- 📱 Acompanha minha jornada no [Instagram](https://www.instagram.com/_.saracsg._/) e no [LinkedIn](https://www.linkedin.com/in/sara-costa-013854282/)
 
-## 🔎 Current Endeavors 
+---
 
-I'm currently working in a mobile app, where my journey involves both building a Add to Cart, a shopping list for your home with your partner, famile or flat mates. Here's what I'm currently focused on:
+## 🔁 De Volta à Programação!
 
-- Working with JavaScript.
-- See how Firebase works.
-- Make this my first "big" project.
+Depois de quase dois anos afastada, voltei a programar agora em **junho de 2025** — e estou super animada para retomar meus estudos e projetos! 💪
 
-## ✨ Fun Facts 
+### No que estou focada agora:
+- 💻 Reaprendendo o básico e me atualizando
+- 🌱 Explorando novas ferramentas e linguagens
+- 🔧 Me preparando para novos projetos pessoais
 
-- I love brigadeiro 🍫 .
-- As a kid, I wanted to be a math teacher 👩‍🏫.
-- I love learning new languages 🌎.
+---
 
-## 📫 Contact
+## 💡 Minha Jornada
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/mirayatech/) or [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/). 
- 
- For professional inquiries, reach out via email at [sara2006costa2gmail.com]. 
+- Comecei com os vídeos do **Gustavo Guanabara** no YouTube 👨‍🏫  
+- Fiz o curso **Discover** da [Rocketseat](https://www.rocketseat.com.br/discover)  
+- Hoje estudo com a **BeroLab**, conectada com outros devs e crescendo em comunidade 🤝
 
+---
 
+## 📊 GitHub Stats
 
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=saracsg&layout=compact&theme=dark)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=saracsg&show_icons=true&theme=dark)
+
+---
+
+## ✨ Curiosidades sobre mim
+
+- 🍫 Amo brigadeiro!
+- 👩‍🏫 Queria ser professora de matemática quando era criança.
+- 🌍 Amo aprender novos idiomas.
+
+---
+
+## 📫 Contato
+
+Para uma resposta rápida, me chama no:  
+📸 [Instagram](https://www.instagram.com/mirayatech/)  
+💼 [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/)
+
+📧 Para assuntos profissionais: sara2006costa2@gmail.com  
+
+---
+
+Obrigada por passar por aqui!  
+**Vamos crescer juntas na comunidade dev!** 💻✨
