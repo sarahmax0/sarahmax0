@@ -4,7 +4,7 @@ Sou uma desenvolvedora de 18 anos, apaixonada pelo mundo da programação e base
 Atualmente participo do desafio da **BeroLab** como **Indie Hacker** — fazendo o código voltar a fluir, um commit de cada vez 🧠💻
 
 [![Rocketseat](https://img.shields.io/badge/Rocketseat-Discover-6633cc?style=for-the-badge&logo=rocket)](https://www.rocketseat.com.br/discover)
-[![BeroLab](https://img.shields.io/badge/BeroLab-Indie_Hacker-blueviolet?style=for-the-badge)](https://www.berolab.dev/)
+[![BeroLab](https://img.shields.io/badge/BeroLab-Indie_Hacker-blueviolet?style=for-the-badge)](https://www.bero.land/berolab/) 
 ![Feito com amor](https://img.shields.io/badge/feito%20com-%E2%9D%A4-red?style=for-the-badge)
 
 ---
