@@ -46,8 +46,8 @@ Depois de quase dois anos afastada, voltei a programar agora em **junho de 2025*
 ## 📫 Contato
 
 Para uma resposta rápida, me chama no:  
-📸 [Instagram](https://www.instagram.com/mirayatech/)  
-💼 [LinkedIn](https://www.linkedin.com/in/mirayaabrodi/)
+📸 [Instagram](https://www.instagram.com/_.saracsg._/)  
+💼 [LinkedIn](https://www.linkedin.com/in/sara-costa-013854282/)
 
 📧 Para assuntos profissionais: sara2006costa2@gmail.com  
 
